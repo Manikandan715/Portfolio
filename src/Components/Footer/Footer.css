@@ -32,6 +32,7 @@
     color: #a0a0a0;
     font-family: Outfit;
     font-size: 18px;
+    width: 400px;
 }
 .footer-subscribe{
     font-size: 20px;
@@ -41,6 +42,9 @@
     background: linear-gradient(264deg, #df8908 -5.09%, #b415ff 106.28%);
     cursor: pointer;
     transition: 0.3s;
+    width: 200px;
+    height: 70px;
+    margin-top: 30px;
 }
 .footer-bottom{
     display: flex;
@@ -105,8 +109,9 @@
         flex-direction: column;
         font-size: 15px;
         padding: 15px 40px;
-        width: 150px;
-        margin-top: -20px;
+        wwidth: 150px;
+        height: 50px;
+        margin-top: -10px;
     }
     .footer-bottom-left{
         margin-top: 20px;
