@@ -16,16 +16,13 @@ const About = () => {
             </div>
             <div className="about-right">
                 <div className="about-para">
-                <p>As a Web Developer at ELGI EQUIPMENTS, I contributed to the design and development of the 
-                    company's website, using Bootstrap, HTML, and SQL. I worked with a team
-                     of developers and designers to create a user-friendly and responsive interface that showcased 
-                     the company's products and services. I also implemented security features
-                     and performed testing and debugging to ensure the website's functionality and performance.
+                <p>I’m a Technical Support Trainee at Softcell Technology, specializing in cybersecurity solutions with a focus on SentinelOne endpoint security, firewalls, and network security.
+                  I hold a B.E. in Computer Science from Hindusthan College and have experience in web development using React JS, Node JS, Java, SQL, and networking
+                  fundamentals.
                 </p>
-                <p>I am passionate about web development and eager to learn new technologies and frameworks that
-                     can enhance my abilities and creativity. I am looking for opportunities to apply 
-                     my web development
-                     skills to challenging and innovative projects that can make a positive impact on society.</p>
+                <p>I’m passionate about cybersecurity and eager to expand my skills in endpoint protection and network defense, continuously 
+                  learning and applying new technologies like SentinelOne to solve real-world challenges
+                </p>
                 </div>
                 <div className="about-skills">
                     <div className="about-skill"><p>HTML & CSS</p><hr style={{width: "70%"}}/></div>
